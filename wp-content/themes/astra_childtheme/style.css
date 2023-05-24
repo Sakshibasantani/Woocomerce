@@ -1,0 +1,12 @@
+
+/*
+Theme Name: astra_childtheme
+Template: astra
+*/
+
+
+/* Enqueue parent theme stylesheet */
+@import url("../astra/style.css");
+
+
+
